@@ -10,8 +10,8 @@ module.exports = {
 	profilePath: "/images/farhan.png",
 	jwtToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
 	recaptchaKey: {
-		v2SiteKey: "6LdthJshAAAAAIvqTeddyZ-JU1GL_rpZENDX1vp6",
-		v2SecretKey: "6LdthJshAAAAAKMzmFW00qHWCAyJS1Gu_jpvkAvE",
+		v2SiteKey: "6LeVRd4mAAAAAEIUvO_5Ui8PTvxACbGQpkHt30gN",
+		v2SecretKey: "6LeVRd4mAAAAAA7kfVKFo5c5jJccvl9Lr5xiVejy",
 		v3SiteKey: "6LdVRN4mAAAAABAkAj0Ok17h4xlntTWHp_ZNdwW5",
 		v3SecretKey: "6LdVRN4mAAAAAB5GrE6ijnX7xtZVGQACQjNSST3W"
 	},
