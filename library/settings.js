@@ -8,7 +8,7 @@ module.exports = {
         expiredTokenDb: 3600,
 	dateLimit: "Oktober, 31 2022",
 	profilePath: "/images/farhan.png",
-	jwtToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.cThIIoDvwdueQB468K5xDc5633seEFoqwxjF_xSJyQQ",
+	jwtToken: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
 	recaptchaKey: {
 		v2SiteKey: "6LdthJshAAAAAIvqTeddyZ-JU1GL_rpZENDX1vp6",
 		v2SecretKey: "6LdthJshAAAAAKMzmFW00qHWCAyJS1Gu_jpvkAvE",
